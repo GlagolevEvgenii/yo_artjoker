@@ -1,5 +1,5 @@
 {
-  "name": "new_template",
+  "name": "<%= _.kebabCase(name) %>",
   "version": "1.0.0",
   "description": "start template for markup",
   "scripts": {
