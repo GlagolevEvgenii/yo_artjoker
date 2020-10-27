@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1852076c-834f-43f6-9a70-f2fe790c2097" name="Default Changelist" comment="" />
+    <list default="true" id="1852076c-834f-43f6-9a70-f2fe790c2097" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1j18bftxtbkwr39tRI3cVOhEwQZ" />
   <component name="ProjectViewState">
@@ -18,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/generators/generator-artuh" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -31,16 +36,37 @@
       <option name="presentableId" value="Default" />
       <updated>1602960310160</updated>
       <workItem from="1602960311202" duration="2534000" />
+      <workItem from="1602962864651" duration="698000" />
     </task>
+    <task id="LOCAL-00001" summary="add all files">
+      <created>1602962935065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602962935065</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add all files" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="568" y="109" width="773" height="887" key="CommitChangelistDialog2" timestamp="1602962933339">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="568" y="109" width="773" height="887" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1602962933339" />
     <state x="742" y="312" width="426" height="482" key="FileChooserDialogImpl" timestamp="1602962386495">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="742" y="312" width="426" height="482" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1602962386495" />
+    <state x="554" y="287" width="802" height="531" key="Vcs.Push.Dialog.v2" timestamp="1602962956116">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="554" y="287" width="802" height="531" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1602962956116" />
   </component>
 </project>

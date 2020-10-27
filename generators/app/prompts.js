@@ -13,8 +13,8 @@ module.exports = [
     message: "Choose template engine",
     choices: [
       {
-        name: "Nunjucks",
-        value: "nunjucks"
+        name: "HTML",
+        value: "html"
       },
       {
         name: "Pug",

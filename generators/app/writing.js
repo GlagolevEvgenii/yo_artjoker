@@ -88,12 +88,6 @@ module.exports = function() {
   this.fs.copy(this.templatePath("app/js"), "app/js");
 
   switch (props.templates) {
-    case "nunjucks":
-      this.fs.copy(
-        this.templatePath("src/templates-nunjucks"),
-        "src/templates"
-      );
-      break;
     case "pug":
       this.fs.copy(this.templatePath("app/pug/index.pug"), "app/pug/index.pug");
       break;
