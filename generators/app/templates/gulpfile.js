@@ -94,7 +94,7 @@ const htmlPartial = require('gulp-html-partial');
   const html = () => {
     return gulp.src('app/templates/**/*.html')
       .pipe(htmlPartial({
-        basePath: 'app/components/',
+        basePath: 'app/templates/components/',
         tagName: 'partial',
         variablePrefix: '@@'
       }))

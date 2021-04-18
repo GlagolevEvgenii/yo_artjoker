@@ -47,14 +47,12 @@ module.exports = class extends Generator {
   }
 
   end () {
-    if (this.props.sprites.indexOf('svg') > -1) {
       this.log(
         '\n'
         + chalk.red('DON\'T FORGET')
         + chalk.green(' create git for your project ¯\\_(ツ)_/¯')
         + '\n'
       );
-    }
     this.log(chalk.green('Done!'));
   }
 };

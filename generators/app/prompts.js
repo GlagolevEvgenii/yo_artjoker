@@ -17,7 +17,7 @@ module.exports = [
         value: 'pug'
       },
       {
-        name: 'No templates, just pure html',
+        name: 'Just pure html',
         value: 'html'
       },
       {
@@ -30,7 +30,7 @@ module.exports = [
   {
     type: 'list',
     name: 'sprites',
-    message: 'How will we handle icons-sprites?',
+    message: 'How will we handle icons?',
     choices: [
       {
         name: 'SVG sprites',
