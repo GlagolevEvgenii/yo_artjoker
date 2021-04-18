@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Evgenii",
+      "authorEmail": "y.glagolev@artjoker.net",
+      "authorUrl": ""
+    }
+  }
+}
